@@ -1,0 +1,7 @@
+h5py
+librosa
+numpy
+scikit-learn
+tensorflow
+tqdm
+
